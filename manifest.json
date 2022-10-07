@@ -3,9 +3,9 @@
  "name": "RBN Masaale",
  "icons": [
   {
-   "src": "/images/logo1.png",
+   "src": "/images/logo.png",
    "type": "image/png",
-   "sizes": "210x150"
+   "sizes": "1024x1024"
   }
  ],
  "start_url": ".",
