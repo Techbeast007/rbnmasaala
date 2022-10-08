@@ -1,11 +1,11 @@
 {
  "short-name": "rbn",
- "name": "RBN Masaale",
+ "name": "RBN Spices",
  "icons": [
   {
-   "src": "/images/logo.png",
+   "src": "/images/logo3.png",
    "type": "image/png",
-   "sizes": "1024x1024"
+   "sizes": "1000x1000"
   }
  ],
  "start_url": ".",
