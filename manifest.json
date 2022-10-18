@@ -3,9 +3,9 @@
  "name": "RBN Spices",
  "icons": [
   {
-   "src": "/images/logo3.png",
+   "src": "/images/RBN.png",
    "type": "image/png",
-   "sizes": "1000x1000"
+   "sizes": "500x500"
   }
  ],
  "start_url": ".",
